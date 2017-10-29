@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="moviesystem-dao" />
+        <module name="moviesystem-model" />
+        <module name="moviesystem-service" />
+        <module name="moviesystem-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="moviesystem" target="1.8" />
+      <module name="moviesystem-dao" target="1.8" />
+      <module name="moviesystem-model" target="1.8" />
+      <module name="moviesystem-service" target="1.8" />
+      <module name="moviesystem-web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

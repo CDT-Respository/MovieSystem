@@ -1,0 +1,3 @@
+com\dao\IMovieDao.class
+com\dao\impl\BaseDao.class
+com\dao\impl\MovieDaoImpl.class

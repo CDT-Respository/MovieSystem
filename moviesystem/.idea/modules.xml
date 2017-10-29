@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/moviesystem.iml" filepath="$PROJECT_DIR$/moviesystem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moviesystem-dao/moviesystem-dao.iml" filepath="$PROJECT_DIR$/moviesystem-dao/moviesystem-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moviesystem-model/moviesystem-model.iml" filepath="$PROJECT_DIR$/moviesystem-model/moviesystem-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moviesystem-service/moviesystem-service.iml" filepath="$PROJECT_DIR$/moviesystem-service/moviesystem-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moviesystem-web/moviesystem-web.iml" filepath="$PROJECT_DIR$/moviesystem-web/moviesystem-web.iml" />
+    </modules>
+  </component>
+</project>
